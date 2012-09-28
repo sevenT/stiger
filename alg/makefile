@@ -26,3 +26,5 @@ st_test: $(OBJS)
 
 clean:
 	rm -r -f -v obj lib st_test
+
+hello
